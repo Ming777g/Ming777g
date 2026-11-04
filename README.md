@@ -1,4 +1,4 @@
-## Hi there i'm ming. I study cybersecurity in leeds beckett university. doesn.t like coding but still does it.
+## Hi there i'm ming. I study cybersecurity in leeds beckett university. doesn't like coding but still does it.
 
 <!--
 **Ming777g/Ming777g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
